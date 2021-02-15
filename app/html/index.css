@@ -1,0 +1,45 @@
+body {
+  background: #1fa2ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #a6ffcb,
+    #12d8fa,
+    #1fa2ff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #a6ffcb,
+    #12d8fa,
+    #1fa2ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.carta {
+  width: 18rem;
+  min-width: 10rem;
+  float: right;
+}
+
+.OO {
+  background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.BB {
+  background: rgb(46, 48, 48);
+
+}
+
+.BOX {
+  box-shadow: 5px 5px 5px rgb(119, 119, 119);
+}
+
+.cuadro{
+  width: 150px;
+  height: 150px;
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
